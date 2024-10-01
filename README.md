@@ -1,6 +1,7 @@
-# golf-game-bachelor
-This game was created as a university student project.
-It is a simple golf game with a few levels and a build in editor.
+# Golf Game
+This game was created as the subject of a bachelor's degree thesis.
+This is a simple golf game with a few levels featuring various obstacles.
+The game also features a fully realized built-in stage editor.
 A build of the game can be found on https://aboveaverageusername.itch.io/golf
 
 Game Screenshots:
